@@ -1,2 +1,2 @@
-# BitcoinPrediction-NN
-Predicting the close price of bitcoin using the previous 1,000 days
+# BitcoinPricePrediction
+Predicting the price of Bitcoin using linear regression
